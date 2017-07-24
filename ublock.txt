@@ -29,6 +29,8 @@ frstlead.com
 !accounts.google.com
 !affinelayer.com
 !amica.sk
+!gopay.cz
+!xbmc-kodi.cz
 !amsbus.sk
 !androidcode.mojandroid.sk
 !androidforum.cz
