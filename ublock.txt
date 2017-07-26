@@ -14,6 +14,7 @@ prestoris.com
 onclkds.com
 adexchangeprediction.com
 frstlead.com
+redonetype.com
 
 
 !127.0.0.1
