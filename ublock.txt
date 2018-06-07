@@ -28,6 +28,7 @@ recwwcc5.info
 digitaldsp.com
 spotscenered.info
 pop.bid
+greatdexchange.com
 
 
 !127.0.0.1
