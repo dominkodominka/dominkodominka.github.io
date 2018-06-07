@@ -233,3 +233,6 @@ sexfriendfinder.club
 !zvratenyhumor.sk
 !tatrabanka.sk
 !slsp.sk
+!oracle.com
+!konicaminolta.cz
+!konicaminola.eu
